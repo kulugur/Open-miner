@@ -1,0 +1,13 @@
+.foter{
+    padding-top: 10vh;
+    display: flex;
+    justify-content: space-between;
+    font-family: "Jaini Purva";
+}
+.info{
+    color: #68778C;
+    padding-left: 2vh;
+}
+.foter h3{
+    padding-right: 2vh;
+}

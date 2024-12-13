@@ -1,0 +1,15 @@
+.img_conteiner{
+    padding-top: 10vh;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+@media(max-width: 800px){
+    .img_conteiner{
+        padding-top: 10vh;
+        display: grid;
+        justify-content: center;
+    }
+}    

@@ -1,0 +1,28 @@
+.login{
+    margin-top: 6vh;
+    display: flex;
+    justify-content: center;
+}
+.flex-row{
+    font-family: "Jaini Purva";
+    margin-top: 2vh;
+    display: flex;
+}
+.lf--input{
+    font-family: "Jaini Purva";
+    background-color: #D9D9D9;
+    border-radius: 5px;
+    padding-left: 10px;
+    border: none;
+
+}
+.lf--submit{
+    font-family: "Jaini Purva";
+    background-color: #D9D9D9;
+    border-radius: 5px;
+   
+    font-family: "Jaini Purva";
+    border: none;
+    margin-top: 2vh;
+    width: 100%;
+}

@@ -1,0 +1,48 @@
+.flex-row{
+    font-family: "Jaini Purva";
+    margin-top: 2vh;
+    display: flex;
+}
+.login_form{
+    font-family: "Jaini Purva";
+    margin-top: 2vh;
+    display: grid;
+    justify-content: center;
+}
+.lf--email{
+    font-family: "Jaini Purva";
+    background-color: #D9D9D9;
+    border-radius: 5px;
+    margin-left: 35px;
+    border: none;
+    padding-left: 10px;
+}
+.lf--name{
+    font-family: "Jaini Purva";
+    background-color: #D9D9D9;
+    border-radius: 5px;
+    margin-left: 7px;
+    border: none;
+    padding-left: 10px;
+}
+.lf--password{
+    font-family: "Jaini Purva";
+    background-color: #D9D9D9;
+    border-radius: 5px;
+    margin-left: 12px;
+    border: none;
+    padding-left: 10px;
+}
+.lf--button{
+    font-family: "Jaini Purva";
+    background-color: #D9D9D9;
+    border-radius: 5px;
+    margin-left: 38px;
+    font-family: "Jaini Purva";
+    border: none;
+    margin-top: 2vh;
+    margin-bottom: 10vh;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}

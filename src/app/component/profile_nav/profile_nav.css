@@ -1,0 +1,17 @@
+.profile_nav{
+    margin-top: 4vh;
+    justify-content: center;
+    display: flex;
+    font-family: "Jaini Purva";
+    
+}
+.lf--navButton{
+    border: none;
+    border-radius: 2px;
+    color: #68778C;
+    margin-left: 4vh;
+    margin-right: 4vh;
+    bottom: 2px;
+    font-family: "Jaini Purva";
+    
+}

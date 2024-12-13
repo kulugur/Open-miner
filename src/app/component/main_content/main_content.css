@@ -1,0 +1,7 @@
+.main_conteiner{
+    margin-top: 10vh;
+    display: grid;
+    justify-content: center;
+    padding-right: 1vh;
+    padding-left: 2vh;
+}
